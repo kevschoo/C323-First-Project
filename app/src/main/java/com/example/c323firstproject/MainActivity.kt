@@ -71,6 +71,7 @@ class MainActivity : AppCompatActivity() {
 
     // Function that checks if there is a value to add to the current number
     // If there is a value we append it to make the new number
+    // Takes a String input, adds that to the numberString variable
     private fun appendOnClick(string: String) {
         if (numberString == "0") {
             numberString = string
