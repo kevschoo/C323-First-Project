@@ -75,6 +75,8 @@ class MainActivity : AppCompatActivity() {
     private fun appendOnClick(string: String) {
         if (numberString == "0") {
             numberString = string
+        } else if (string == "." && numberString.contains(".")) {
+            // Do nothing since we can't have double decimals
         } else {
             numberString += string
         }
