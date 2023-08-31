@@ -11,7 +11,7 @@ The following **required** functionality is completed:
 * [ ] Calculator works properly with the logical operations
 
 The following **extensions** are implemented:
-
+None
 * ...
 * ...
 
