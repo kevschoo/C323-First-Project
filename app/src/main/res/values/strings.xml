@@ -1,3 +1,34 @@
 <resources>
     <string name="app_name">C323 First Project</string>
+
+    <string name="text_hint">0</string>
+
+    <string name="btn_add">+</string>
+    <string name="btn_sub">-</string>
+    <string name="btn_div">/</string>
+    <string name="btn_mul">X</string>
+    <string name="btn_equal">=</string>
+    <string name="btn_period">.</string>
+    <string name="btn_sin">sin</string>
+    <string name="btn_cos">cos</string>
+    <string name="btn_tan">tan</string>
+    <string name="btn_log">Log 10</string>
+    <string name="btn_ln">ln</string>
+    <string name="btn_swap">+/-</string>
+    <string name="btn_clear">C</string>
+    <string name="btn_percent">%</string>
+
+    <string name="btn_one">1</string>
+    <string name="btn_two">2</string>
+    <string name="btn_three">3</string>
+    <string name="btn_four">4</string>
+    <string name="btn_five">5</string>
+    <string name="btn_six">6</string>
+    <string name="btn_seven">7</string>
+    <string name="btn_eight">8</string>
+    <string name="btn_nine">9</string>
+    <string name="btn_zero">0</string>
+
+
+
 </resources>

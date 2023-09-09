@@ -1,4 +1,4 @@
-# C323 Project 1 Calculator
+# C323 Project 2 Calculator
 
 This is a calculator app for an Android Device.
 
@@ -9,9 +9,11 @@ The following **required** functionality is completed:
 * [ ] User sees the UI of a standard calculator with 0-9, +,-, /, *, ., C, %, =
 * [ ] User can use the standard calculator functions
 * [ ] Calculator works properly with the logical operations
+* [ ] Calculator can change orientation and use a different layout
+* [ ] Calculator saves data between changes and obtains new buttons when horizontal
 
 The following **extensions** are implemented:
-None
+
 * ...
 * ...
 
@@ -25,8 +27,7 @@ Here's a walkthrough of implemented user stories:
 ## Notes
 
 Describe any challenges encountered while building the app.
-The UI was originally circles instead of rounded squares, I had to research how to get the square look and made a drawable xml file called rounded_square_button to solve this challenge.
-The logic of the calculator was also somewhat difficult at times as sometimes I forgot to implement checks to prevent errors such as on division.
+My horizontal layout was not loading correctly with the new layout for many of my attempts when swapping between vertical and horizontal layouts. 
 
 ## License
 
