@@ -11,6 +11,7 @@ The following **required** functionality is completed:
 * [ ] Calculator works properly with the logical operations
 * [ ] Calculator can change orientation and use a different layout
 * [ ] Calculator saves data between changes and obtains new buttons when horizontal
+* [ ] Calculator has a new app Icon. Icon made by me.
 
 The following **extensions** are implemented:
 
@@ -28,6 +29,7 @@ Here's a walkthrough of implemented user stories:
 
 Describe any challenges encountered while building the app.
 My horizontal layout was not loading correctly with the new layout for many of my attempts when swapping between vertical and horizontal layouts. 
+App Icon Made by Me.
 
 ## License
 
